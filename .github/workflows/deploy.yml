@@ -29,7 +29,7 @@ jobs:
       # Si une vérification échoue, rien n'est déployé et l'ancienne version reste en ligne.
       - name: Validate JSON
         run: |
-          F=announcements.json
+          F=changelog.json
           fail() { echo "::error file=$F::$1"; exit 1; }
 
           jq empty "$F" || fail "JSON invalide (erreur de syntaxe)"
@@ -72,7 +72,7 @@ jobs:
       - name: Prepare site
         run: |
           mkdir _site
-          cp announcements.json _site/
+          cp changelog.json _site/
 
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
