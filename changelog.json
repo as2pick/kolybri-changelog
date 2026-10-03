@@ -1,0 +1,28 @@
+{
+  "changelog": [
+    {
+      "version": "1.2.0",
+      "date": "2026-10-01",
+      "title": "Mode sombre",
+      "changes": [
+        { "type": "new", "text": "Ajout du mode sombre" },
+        { "type": "improved", "text": "Chargement des listes plus rapide" },
+        { "type": "fix", "text": "Correction du crash au démarrage" }
+      ]
+    },
+    {
+      "version": "1.1.0",
+      "date": "2026-09-10",
+      "changes": [{ "type": "new", "text": "Ajout des notifications" }]
+    }
+  ],
+  "announcements": [
+    {
+      "id": "rejoins-nous",
+      "title": "Rejoins-nous !",
+      "message": "Tu veux nous soutenir ou nous demander quelque chose ? Retrouve nous sur Discord",
+      "link": { "label": "Discord", "url": "google.com" },
+      "type": "community"
+    }
+  ]
+}
