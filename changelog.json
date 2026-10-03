@@ -21,7 +21,7 @@
       "id": "rejoins-nous",
       "title": "Rejoins-nous !",
       "message": "Tu veux nous soutenir ou nous demander quelque chose ? Retrouve nous sur Discord",
-      "link": { "label": "Discord", "url": "google.com" },
+      "link": { "label": "Discord", "url": "https://google.com" },
       "type": "community"
     }
   ]
