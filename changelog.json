@@ -23,6 +23,13 @@
       "message": "Tu veux nous soutenir ou nous demander quelque chose ? Retrouve nous sur Discord",
       "link": { "label": "Discord", "url": "https://google.com" },
       "type": "community"
+    },
+    {
+      "id": "modifications",
+      "title": "Nouvelles modifs !",
+      "message": "On va bientot ajouter des trucs a Kolybri",
+      "link": { "label": "Google", "url": "https://google.com" },
+      "type": "community"
     }
   ]
 }
