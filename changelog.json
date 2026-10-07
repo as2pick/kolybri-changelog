@@ -44,6 +44,13 @@
       "message": "Avec la saison qui arrive, on vous a fait le theme d'halloween, bouuuu ca fait méga peu zizi",
       "link": { "label": "Google yoyo", "url": "https://google.com" },
       "type": "community"
+    },
+    {
+      "id": "noel2025",
+      "title": "Noel 2025 !",
+      "message": "Il fait froid, bientot Noel...",
+      "link": { "label": "Google papa noel", "url": "https://google.com" },
+      "type": "community"
     }
   ]
 }
