@@ -37,6 +37,13 @@
       "message": "On va bientot ajouter des trucs a Kolybri avec une nouvelle maj !!",
       "link": { "label": "Google", "url": "https://google.com" },
       "type": "community"
+    },
+    {
+      "id": "new-maj-1.13",
+      "title": "Nouvelle MAJ biento dispo ! 1.13",
+      "message": "On va bientot ajouter des trucs a Kolybri avec une nouvelle maj !! 1.13",
+      "link": { "label": "Google13", "url": "https://google.com" },
+      "type": "community"
     }
   ]
 }
