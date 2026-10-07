@@ -37,6 +37,13 @@
       "message": "On va bientot ajouter des trucs a Kolybri avec une nouvelle maj !!",
       "link": { "label": "Google", "url": "https://google.com" },
       "type": "community"
+    },
+    {
+      "id": "halloween2028",
+      "title": "Theme Halloween de prévu pour 2028!",
+      "message": "Avec la saison qui arrive, on vous a fait le theme d'halloween, bouuuu ca fait méga peu zizi",
+      "link": { "label": "Google yoyo", "url": "https://google.com" },
+      "type": "community"
     }
   ]
 }
