@@ -67,6 +67,13 @@
       "message": "Il fait froid, bientot le zozo...",
       "link": { "label": "Google papa yoyo", "url": "https://google.com" },
       "type": "community"
+    },
+    {
+      "id": "nouvelle-annee",
+      "title": "Bonne année 2029 !",
+      "message": "C'est la nouvelle année, Parcoursup, le BAC, tout ça...",
+      "link": { "label": "Le Discord", "url": "https://google.com" },
+      "type": "community"
     }
   ]
 }
