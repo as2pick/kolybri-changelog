@@ -51,6 +51,13 @@
       "message": "Il fait froid, bientot Noel...",
       "link": { "label": "Google papa noel", "url": "https://google.com" },
       "type": "community"
+    },
+    {
+      "id": "yoyo1",
+      "title": "Yoyo 2025 !",
+      "message": "Il fait froid, bientot le zozo...",
+      "link": { "label": "Google papa yoyo", "url": "https://google.com" },
+      "type": "community"
     }
   ]
 }
