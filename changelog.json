@@ -37,13 +37,6 @@
       "message": "On va bientot ajouter des trucs a Kolybri avec une nouvelle maj !!",
       "link": { "label": "Google", "url": "https://google.com" },
       "type": "community"
-    },
-    {
-      "id": "halloween",
-      "title": "Theme Halloween de prévu !",
-      "message": "Avec la saison qui arrive, on vous a fait le theme d'halloween, bouuuu",
-      "link": { "label": "Google3", "url": "https://google.com" },
-      "type": "community"
     }
   ]
 }
