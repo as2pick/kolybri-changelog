@@ -74,6 +74,12 @@
       "message": "C'est la nouvelle année, Parcoursup, le BAC, tout ça...",
       "link": { "label": "Le Discord", "url": "https://google.com" },
       "type": "community"
+    },
+    {
+      "id": "test-app-1",
+      "title": "Annonce de test",
+      "message": "Salut la commu. de Kolybri ! Petite annonce de test pour voir si notre système fonctionne et est opérationnel :)\nDeuxième chose, pensez à communiquer aux proches que vous connaissez que Kolybri cherche des testeurs... On compte sur vous ! ",
+      "type": "community"
     }
   ]
 }
