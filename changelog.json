@@ -80,6 +80,12 @@
       "title": "Annonce de test",
       "message": "Salut la commu. de Kolybri ! Petite annonce de test pour voir si notre système fonctionne et est opérationnel :)\nDeuxième chose, pensez à communiquer aux proches que vous connaissez que Kolybri cherche des testeurs... On compte sur vous ! ",
       "type": "community"
+    },
+    {
+      "id": "retours-sur-l-app",
+      "title": "🚨 Un avis c'est super important ! 😇 ",
+      "message": "Vous êtes nos testeurs de pré-lancement 🤩\nVous avez un rôle important à jouer pour le lancement de Kolybri...\n\nC'est pour cela que votre avis compte beaucoup 😮. Si vous avez des remarques, des critiques ou tout autre message à nous transmettre, rendez-vous dans :\n\nPhoto de profil > ⭐ Donnez votre avis !\n\nDans le formulaire, écrivez tout ce qui vous semble utile !\n\n\nL'équipe de Kolybri vous souhaite une bonne dernière semaine avant les vacances.",
+      "type": "community"
     }
   ]
 }
