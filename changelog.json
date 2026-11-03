@@ -86,6 +86,12 @@
       "title": "🚨 Un avis c'est super important ! 😇 ",
       "message": "Vous êtes nos testeurs de pré-lancement 🤩\nVous avez un rôle important à jouer pour le lancement de Kolybri...\n\nC'est pour cela que votre avis compte beaucoup 😮. Si vous avez des remarques, des critiques ou tout autre message à nous transmettre, rendez-vous dans :\n\nPhoto de profil > ⭐ Donnez votre avis !\n\nDans le formulaire, écrivez tout ce qui vous semble utile !\n\n\nL'équipe de Kolybri vous souhaite une bonne dernière semaine avant les vacances.",
       "type": "community"
+    },
+    {
+      "id": "arrivee-en-prod",
+      "title": "🚨 Kolybri va bientôt être disponible pour tous librement ! 🥳",
+      "message": "Kolybri 🐣: à reçu l'autorisation de mettre à disposition l'application sur le Play Store pour tout le monde ✨🎉\nPréparez-vous, préparez vos potes, invitez tout le monde, Kolybri vous donne une experience plus moderne de l'outil de suivi scolaire🎈\n\nOn vous diras quand la release sera disponible sur le Play Store, tenez-vous prêts 🤪",
+      "type": "community"
     }
   ]
 }
