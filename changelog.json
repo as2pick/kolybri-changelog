@@ -1,6 +1,25 @@
 {
   "changelog": [
     {
+      "version": "1.2.2",
+      "date": "2026-11-03",
+      "title": "Release v1.2.2",
+      "changes": [
+        {
+          "type": "new",
+          "text": "Possibilité d'activer ou désactiver les animations dans l'emploi du temps"
+        },
+        {
+          "type": "improved",
+          "text": "Revue de certains éléments d'interface de l'emploi du temps"
+        },
+        {
+          "type": "fix",
+          "text": "Retrait du bandeau de debug de réseau / actualisation des données"
+        }
+      ]
+    },
+    {
       "version": "1.3.0",
       "date": "2026-10-01",
       "title": "Mode sombre",
